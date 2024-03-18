@@ -12,6 +12,7 @@
         "sourceType": "module"
     },
     "rules": {
-        "no-restricted-syntax": "off"
+        "no-restricted-syntax": "off",
+        "prefer-destructuring": ["error", {"object": true, "array": false}]
     }
 }
