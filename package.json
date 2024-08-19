@@ -9,6 +9,7 @@
   "keywords": [
     "dev"
   ],
+  "type": "module",
   "author": "jaideraf <jaideraf@gmailcom>",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
